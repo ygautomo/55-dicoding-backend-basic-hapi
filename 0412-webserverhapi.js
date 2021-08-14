@@ -6,7 +6,7 @@
 // Author: Yugo Gautomo
 // Status: Final August 01, 2021
 
-console.log('Halo, kita akan belajar membuat server menggunakan Hapi');
+console.log("Halo, kita akan belajar membuat server menggunakan Hapi");
 
 // Running command
 // npm run start
